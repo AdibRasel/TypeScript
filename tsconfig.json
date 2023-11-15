@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "compilerOptions": {
     /* Visit https://aka.ms/tsconfig to read more about this file */
 
@@ -107,3 +108,10 @@
     "skipLibCheck": true                                 /* Skip type checking all .d.ts files. */
   }
 }
+=======
+    "include": ["src"],
+    "compilerOptions": {
+      "outDir": "./build"
+    }
+  }
+>>>>>>> 84df9dffdf84419989d22bf51cf0570f7989c7ec
